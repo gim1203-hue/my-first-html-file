@@ -41,3 +41,34 @@ live server configuration
 
 - italic: <em> ....</em> - and not <i> ...</i>
 - Bold: <strong> ... </strong> - and not <b> ... </br>
+
+
+
+## List
+
+- <u1> ....</u1>, <o1> .....</o1>
+- <1i> .....</1i>
+- VS CODE u1>1i*6
+
+## Images
+- VS COde: img
+- <img src="" alt-""> - we dont need to close images
+- relative paths: "src" , "images/profile.jpg", "./images/profile.jpg" , "../images/profiles.jpg"
+- url path (link)
+-accessibility: alt
+- size: width="250" height="300" . dont distort the aspect ratio!
+
+## Ids and links
+
+- Tag Id: e.g. id="skill-table"
+- in the browser: e.g. http://127.0.0.1:5500/index.html#skill-table
+
+- Internal links
+    -same file: e.g. <a href="#social-links">social media</a>
+    - Another file: e.g. <a href="./projects.html"?my projects</a>
+    - Another file with an anchor: e.g. <a href="./index.html#social-links" social media</a>
+    - Image in another project directory: e.g. <a href="./images/profile.jpg">me</a>
+
+- External links: "<a href="http://www.google.com">find me....</a>
+
+- In new tab: target="_blank"
