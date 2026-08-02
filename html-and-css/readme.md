@@ -25,3 +25,19 @@
 
 live server configuration
 
+## Tags
+
+- Tags <tagname>....</tagname>
+
+- headings: <h1> ...</h1> (only one)
+- paragraps: <p> ....</p> (block level elements)
+
+- Whitespaces in VS code and browser
+
+- VS Code: "lorem50", Alt+Z (text format),
+- VS Code: p*3, (p>lorem5)*3
+
+- Browser: development tools
+
+- italic: <em> ....</em> - and not <i> ...</i>
+- Bold: <strong> ... </strong> - and not <b> ... </br>
