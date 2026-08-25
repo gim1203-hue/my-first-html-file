@@ -65,8 +65,10 @@ live server configuration
 
 - Internal links
     -same file: e.g. <a href="#social-links">social media</a>
-    - Another file: e.g. <a href="./projects.html"?my projects</a>
-    - Another file with an anchor: e.g. <a href="./index.html#social-links" social media</a>
+    - Another file: e.g. <a href="./projects.html"?my projects
+    <a>
+    - Another file with an anchor: e.g. <a href="./index.html#social-links" social media
+    </a>
     - Image in another project directory: e.g. <a href="./images/profile.jpg">me</a>
 
 - External links: "<a href="http://www.google.com">find me....</a>
